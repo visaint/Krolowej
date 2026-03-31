@@ -122,7 +122,7 @@ nav.scrolled {
 }
 
 .nav-links a {
-    font-family: 'Cormorant Garamond', serif;
+    font-family: 'EB Garamond', serif;
     font-size: 13px;
     letter-spacing: .13em;
     text-transform: uppercase;
@@ -261,7 +261,7 @@ nav.scrolled {
 .hero-badge-oval {
     width: 180px;
     height: 224px;
-    border-radius: 50% / 42%;
+    border-radius: 50% / 36%;
     overflow: hidden;
     border: 2px solid rgba(26, 20, 16, .11);
     box-shadow: 0 12px 48px rgba(139, 29, 53, .13), 0 2px 8px rgba(26, 20, 16, .06);
@@ -305,7 +305,7 @@ nav.scrolled {
 
 .hero-address-num {
     margin-top: 14px;
-    font-family: 'Cormorant Garamond', serif;
+    font-family: 'EB Garamond', serif;
     font-size: 16px;
     letter-spacing: .45em;
     color: rgba(26, 20, 16, .42);
@@ -315,7 +315,7 @@ nav.scrolled {
 
 .hero-subtitle {
     margin-top: 8px;
-    font-family: 'Cormorant Garamond', serif;
+    font-family: 'EB Garamond', serif;
     font-size: 13px;
     letter-spacing: .38em;
     text-transform: uppercase;
@@ -338,7 +338,7 @@ nav.scrolled {
 }
 
 .hero-scroll-hint span {
-    font-family: 'Cormorant Garamond', serif;
+    font-family: 'EB Garamond', serif;
     font-size: 10px;
     letter-spacing: .35em;
     text-transform: uppercase;
@@ -388,7 +388,7 @@ nav.scrolled {
     align-items: center;
     gap: 18px;
     padding: 0 18px;
-    font-family: 'Cormorant Garamond', serif;
+    font-family: 'EB Garamond', serif;
     font-size: 13px;
     letter-spacing: .28em;
     text-transform: uppercase;
@@ -417,7 +417,7 @@ nav.scrolled {
 
 /* SECTION LABEL */
 .section-label {
-    font-family: 'Cormorant Garamond', serif;
+    font-family: 'EB Garamond', serif;
     font-size: 10px;
     letter-spacing: .42em;
     text-transform: uppercase;
@@ -483,7 +483,7 @@ nav.scrolled {
     position: absolute;
     bottom: -28px;
     right: -16px;
-    font-family: 'Cormorant Garamond', serif;
+    font-family: 'EB Garamond', serif;
     font-size: 10px;
     letter-spacing: .35em;
     text-transform: uppercase;
@@ -556,7 +556,7 @@ nav.scrolled {
 }
 
 .stat-label-top {
-    font-family: 'Cormorant Garamond', serif;
+    font-family: 'EB Garamond', serif;
     font-size: 11px;
     letter-spacing: .22em;
     text-transform: uppercase;
@@ -565,7 +565,7 @@ nav.scrolled {
 }
 
 .stat-label-bottom {
-    font-family: 'Cormorant Garamond', serif;
+    font-family: 'EB Garamond', serif;
     font-size: 12px;
     letter-spacing: .1em;
     color: rgba(26, 20, 16, .55);
@@ -715,7 +715,7 @@ nav.scrolled {
 }
 
 .brand-overlay-tagline {
-    font-family: 'Cormorant Garamond', serif;
+    font-family: 'EB Garamond', serif;
     font-size: 13px;
     letter-spacing: .18em;
     text-transform: uppercase;
@@ -908,7 +908,7 @@ nav.scrolled {
 }
 
 .loc-stat-sub {
-    font-family: 'Cormorant Garamond', serif;
+    font-family: 'EB Garamond', serif;
     font-size: 10px;
     letter-spacing: .28em;
     text-transform: uppercase;
@@ -931,7 +931,7 @@ nav.scrolled {
 }
 
 .location-address-line {
-    font-family: 'Cormorant Garamond', serif;
+    font-family: 'EB Garamond', serif;
     font-size: 17px;
     letter-spacing: .1em;
     color: rgba(26, 20, 16, .6);
@@ -956,7 +956,7 @@ nav.scrolled {
 }
 
 .loc-brand-block .loc-hours {
-    font-family: 'Cormorant Garamond', serif;
+    font-family: 'EB Garamond', serif;
     font-size: 13px;
     letter-spacing: .06em;
     color: var(--burgundy);
@@ -971,7 +971,7 @@ nav.scrolled {
 }
 
 .loc-brand-block .loc-contact-row a {
-    font-family: 'Cormorant Garamond', serif;
+    font-family: 'EB Garamond', serif;
     font-size: 14px;
     color: rgba(26, 20, 16, .58);
     text-decoration: none;
@@ -1084,7 +1084,7 @@ footer::before {
 
 /* Big Editorial Headers with a subtle Bug icon as a divider */
 .footer-col h4 {
-    font-family: 'Cormorant Garamond', serif;
+    font-family: 'EB Garamond', serif;
     font-size: 11px;
     font-weight: 400;
     font-style: normal;
@@ -1129,7 +1129,7 @@ footer::before {
 }
 
 .footer-contact-item {
-    font-family: 'Cormorant Garamond', serif;
+    font-family: 'EB Garamond', serif;
     font-size: 17px;
     margin-bottom: 12px;
     opacity: 0.8;
@@ -1146,7 +1146,7 @@ footer::before {
 }
 
 .footer-copy {
-    font-family: 'Cormorant Garamond', serif;
+    font-family: 'EB Garamond', serif;
     font-size: 12px;
     letter-spacing: 0.1em;
     opacity: 0.4;
